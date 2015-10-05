@@ -2,7 +2,7 @@
 
 ## Build
 ```
-docker build -t rabbitmq
+docker build -t rabbitmq .
 ```
 
 ## Docker Run
